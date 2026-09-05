@@ -32,7 +32,8 @@
 │   │   └── make_character_sheet.py
 │   └── styles/
 │       ├── style-1-marker-doodle/
-│       └── style-2-watercolor/
+│       ├── style-2-watercolor/
+│       └── style-3-low-poly-game/
 └── output/              # 本地输出目录，不上传 GitHub
 ```
 
@@ -44,6 +45,7 @@
 |---|---|
 | Style 1 | <img src="example/第一张创作专辑.jpg" alt="模式C 结果图" width="220"> |
 | Style 2 | <img src="example/styles/style2.jpg" alt="Style 2 效果图" width="220"> |
+| Style 3 | 千禧年初低面数 3D 游戏截图风格 |
 
 ## 使用流程
 
